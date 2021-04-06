@@ -1,9 +1,9 @@
 import React from 'react';
 
-function Project() {
+const Project = () => {
     return (
         <div className="item">
-            <h2>Project</h2>
+            <h2>Project with Arrow Function</h2>
         </div>
     )
 }
