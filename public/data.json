@@ -10,5 +10,9 @@
     {
         "name": "Project 3",
         "img": "img/portfolio3.jpg"
+    },
+    {
+        "name": "Project 4",
+        "img": "img/portfolio4.jpg"
     }
 ]

@@ -1,3 +1,12 @@
 .App {
   text-align: left;
 }
+
+.item {
+  display: inline-block;
+  width: 30%;
+}
+
+.item img {
+  max-width: 100%;
+}
